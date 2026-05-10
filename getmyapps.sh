@@ -12,15 +12,18 @@
 #
 # written 05/09/2026
 # curl multiple urls 
-# 
+# https://github.com/thewickedwench18/getmyapps
 
 
 
-
-
-wget https://www.firefox.com/thanks/
-wget https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe
-wget https://www.spotify.com/de-en/download/
-
-
+sudo apt install steam
+sudo apt install snap
+sudo snap install spotify
+sudo snap install mc-installer
+sudo snap install discord
+sudo snap install firefox
+sudo snap install audacity
+sudo snap install gimp
+sudo snap install blender --classic
+sudo snap install freecad
 
