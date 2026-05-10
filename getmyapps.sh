@@ -16,8 +16,11 @@
 
 
 
-sudo apt install steam
-sudo snap install spotify
+
+
+wget https://www.firefox.com/thanks/
+wget https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe
+wget https://www.spotify.com/de-en/download/
 
 
 
