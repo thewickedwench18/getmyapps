@@ -24,6 +24,5 @@ sudo snap install discord
 sudo snap install firefox
 sudo snap install audacity
 sudo snap install gimp
-sudo snap install blender --classic
 sudo snap install freecad
 
